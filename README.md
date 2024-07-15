@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @addidra
-- 👀 I’m interested in AI / ML
-- 🌱 I’m currently pursuing Bsc IT
 - 💞️ I’m looking to collaborate on AI / ML
 - 📫 How to reach me: twt: addidra
 
